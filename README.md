@@ -1,5 +1,5 @@
 # Git Portofolio
-Welcome to my git portofolio, here i will be my main catalogue where i embed my project
+Welcome to my git portofolio, here will be my main catalogue where i embed my project
 
 ## ⚡ Markup & Program Language
 
